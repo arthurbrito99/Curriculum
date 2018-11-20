@@ -1,1 +1,1 @@
-https://arthurbrito99.github.io/Curriculum/index.html
+https://arthurbrito99.github.io/Curriculum/
