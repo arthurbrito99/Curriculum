@@ -1,0 +1,73 @@
+#imagePerfil{
+	border-radius: 50% !important;
+}
+
+#leftside{
+	background-color: #222222;
+}
+
+.profissao{
+	margin-bottom: 10% !important;
+}
+
+body{
+	font-family: 'Titillium Web', sans-serif !important;
+}
+
+.borda{
+    border-style: solid !important;
+	border-color: #222222 !important;
+}
+
+.titulos{
+	color: #5DA399 !important;
+}
+
+.conteudo{
+	color: #9E9E9E !important;
+}
+
+#conteudoEsquerda{
+	margin-top: 20% !important;
+	padding: 5% !important;
+}
+
+#conteudoDireita{
+	padding: 10% !important;
+}
+
+.subtitulo{
+    text-decoration: underline !important;
+}
+
+#github, #linkedin{
+	color: white !important;
+ 	background-color: transparent !important;
+ 	text-decoration: none !important;
+}
+
+.progresso {
+	overflow: hidden;
+	height: 10px;
+	background-color: white;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+	box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+	margin-bottom: 20px;
+}
+.progresso-bar {
+	width: 0;
+	height: 100%;
+	color: #fff;
+	text-align: center;
+	background-color: #5DA399;
+}
+
+i{
+	width: 100%;
+    height: auto;
+}
+
+.hobbies{
+	color: black !important;
+}
